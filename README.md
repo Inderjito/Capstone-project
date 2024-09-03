@@ -12,5 +12,12 @@ The project aims to analyze historical real estate sales data from 2009 to 2022 
 ### Results
 
 Different regression techniques were employed  linear regression, decision tree, random forest, and XGBoost to build predictive models for NYC sale prices. Performance metrics such as Mean Squared Error (MSE), which measures the average squared difference between the predicted and actual sale prices
+
+
 <img width="438" alt="image" src="https://github.com/user-attachments/assets/c5fa3769-9644-4ed2-a72f-dbadbcd19ea9">
 
+### References
+Annualized sales update, www.Nyc.Gov/site/finance/property/property-annualized-sales-update.Page. Accessed 7 mar. 2024. 
+Google scholar was utilized for the retrieval of academic articles and resources relevant to the research. Available at: https://scholar.Google.Com. [Accessed: 10 feb. 2024].”
+"Academia.Edu. (N.D.). Retrieved [accessed 10 feb, 2024], from
+Data.Gov. (N.D.). Retrieved [access 1 march 2024], from https://data.Gov![image](https://github.com/user-attachments/assets/dae5bf3e-16a5-4ad7-bbcc-787e92f0b807)
